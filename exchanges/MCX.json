@@ -1,0 +1,78 @@
+{
+  "name": "MCX",
+  "timezone": "Asia/Kolkata",
+  "working_days": [0, 1, 2, 3, 4],
+  "special_working_days": ["2025-02-01"],
+  "holidays": [
+    {
+      "date": "2025-02-26",
+      "name": "Mahashivratri",
+      "description": "Mahashivratri holiday"
+    },
+    {
+      "date": "2025-03-14",
+      "name": "Holi",
+      "description": "Holi holiday"
+    },
+    {
+      "date": "2025-03-31",
+      "name": "Id-Ul-Fitr (Ramadan Eid)",
+      "description": "Ramadan Eid holiday"
+    },
+    {
+      "date": "2025-04-10",
+      "name": "Shri Mahavir Jayanti",
+      "description": "Shri Mahavir Jayanti holiday"
+    },
+    {
+      "date": "2025-04-14",
+      "name": "Dr. Baba Saheb Ambedkar Jayanti",
+      "description": "Dr. Baba Saheb Ambedkar Jayanti holiday"
+    },
+    {
+      "date": "2025-04-18",
+      "name": "Good Friday",
+      "description": "Good Friday holiday"
+    },
+    {
+      "date": "2025-05-01",
+      "name": "Maharashtra Day",
+      "description": "Maharashtra Day holiday"
+    },
+    {
+      "date": "2025-08-15",
+      "name": "Independence Day / Parsi New Year",
+      "description": "Independence Day and Parsi New Year holiday"
+    },
+    {
+      "date": "2025-08-27",
+      "name": "Shri Ganesh Chaturthi",
+      "description": "Shri Ganesh Chaturthi holiday"
+    },
+    {
+      "date": "2025-10-02",
+      "name": "Mahatma Gandhi Jayanti/Dussehra",
+      "description": "Mahatma Gandhi Jayanti and Dussehra holiday"
+    },
+    {
+      "date": "2025-10-21",
+      "name": "Diwali Laxmi Pujan",
+      "description": "Diwali Laxmi Pujan holiday"
+    },
+    {
+      "date": "2025-10-22",
+      "name": "Balipratipada",
+      "description": "Balipratipada holiday"
+    },
+    {
+      "date": "2025-11-05",
+      "name": "Prakash Gurpurb Sri Guru Nanak Dev",
+      "description": "Prakash Gurpurb Sri Guru Nanak Dev holiday"
+    },
+    {
+      "date": "2025-12-25",
+      "name": "Christmas",
+      "description": "Christmas holiday"
+    }
+  ]
+}
