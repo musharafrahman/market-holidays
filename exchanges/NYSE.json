@@ -1,0 +1,153 @@
+{
+  "name": "NYSE",
+  "timezone": "America/New_York",
+  "working_days": [0, 1, 2, 3, 4],
+  "special_working_days": [""],
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "name": "New Year's Day",
+      "description": "New Year's Day holiday"
+    },
+    {
+      "date": "2026-01-19",
+      "name": "Martin Luther King, Jr. Day",
+      "description": "Martin Luther King, Jr. Day holiday"
+    },
+    {
+      "date": "2026-02-16",
+      "name": "Washington's Birthday",
+      "description": "Washington's Birthday holiday"
+    },
+    {
+      "date": "2026-04-03",
+      "name": "Good Friday",
+      "description": "Good Friday holiday"
+    },
+    {
+      "date": "2026-05-25",
+      "name": "Memorial Day",
+      "description": "Memorial Day holiday"
+    },
+    {
+      "date": "2026-06-19",
+      "name": "Juneteenth National Independence Day",
+      "description": "Juneteenth National Independence Day holiday"
+    },
+    {
+      "date": "2026-07-03",
+      "name": "Independence Day",
+      "description": "Independence Day holiday (Observed)"
+    },
+    {
+      "date": "2026-09-07",
+      "name": "Labor Day",
+      "description": "Labor Day holiday"
+    },
+    {
+      "date": "2026-11-26",
+      "name": "Thanksgiving Day",
+      "description": "Thanksgiving Day holiday"
+    },
+    {
+      "date": "2026-12-25",
+      "name": "Christmas Day",
+      "description": "Christmas Day holiday"
+    },
+    {
+      "date": "2027-01-01",
+      "name": "New Year's Day",
+      "description": "New Year's Day holiday"
+    },
+    {
+      "date": "2027-01-18",
+      "name": "Martin Luther King, Jr. Day",
+      "description": "Martin Luther King, Jr. Day holiday"
+    },
+    {
+      "date": "2027-02-15",
+      "name": "Washington's Birthday",
+      "description": "Washington's Birthday holiday"
+    },
+    {
+      "date": "2027-03-26",
+      "name": "Good Friday",
+      "description": "Good Friday holiday"
+    },
+    {
+      "date": "2027-05-31",
+      "name": "Memorial Day",
+      "description": "Memorial Day holiday"
+    },
+    {
+      "date": "2027-06-18",
+      "name": "Juneteenth National Independence Day",
+      "description": "Juneteenth National Independence Day holiday (Observed)"
+    },
+    {
+      "date": "2027-07-05",
+      "name": "Independence Day",
+      "description": "Independence Day holiday (Observed)"
+    },
+    {
+      "date": "2027-09-06",
+      "name": "Labor Day",
+      "description": "Labor Day holiday"
+    },
+    {
+      "date": "2027-11-25",
+      "name": "Thanksgiving Day",
+      "description": "Thanksgiving Day holiday"
+    },
+    {
+      "date": "2027-12-24",
+      "name": "Christmas Day",
+      "description": "Christmas Day holiday (Observed)"
+    },
+    {
+      "date": "2028-01-17",
+      "name": "Martin Luther King, Jr. Day",
+      "description": "Martin Luther King, Jr. Day holiday"
+    },
+    {
+      "date": "2028-02-21",
+      "name": "Washington's Birthday",
+      "description": "Washington's Birthday holiday"
+    },
+    {
+      "date": "2028-04-14",
+      "name": "Good Friday",
+      "description": "Good Friday holiday"
+    },
+    {
+      "date": "2028-05-29",
+      "name": "Memorial Day",
+      "description": "Memorial Day holiday"
+    },
+    {
+      "date": "2028-06-19",
+      "name": "Juneteenth National Independence Day",
+      "description": "Juneteenth National Independence Day holiday"
+    },
+    {
+      "date": "2028-07-04",
+      "name": "Independence Day",
+      "description": "Independence Day holiday"
+    },
+    {
+      "date": "2028-09-04",
+      "name": "Labor Day",
+      "description": "Labor Day holiday"
+    },
+    {
+      "date": "2028-11-23",
+      "name": "Thanksgiving Day",
+      "description": "Thanksgiving Day holiday"
+    },
+    {
+      "date": "2028-12-25",
+      "name": "Christmas Day",
+      "description": "Christmas Day holiday"
+    }
+  ]
+}
